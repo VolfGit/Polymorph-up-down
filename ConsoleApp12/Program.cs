@@ -49,9 +49,9 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Branch Slave");
+        Console.WriteLine("Branch lawerewre2");
 
-
+        Console.WriteLine("Branch ");
 
         Student student = new Student();
 
