@@ -49,7 +49,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Branch Slave");
+        Console.WriteLine("Branch Slave2");
 
 
 
