@@ -42,7 +42,7 @@ class Square : Shape
 }
 class Student : Shape
 {
-    public string studentName { get; set; }
+    public string? studentName { get; set; }
 
 }
 class Program
